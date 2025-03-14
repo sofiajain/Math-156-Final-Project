@@ -4,7 +4,12 @@ This repository is for Parth Doshi's, Jordyn Fuchs's, and Sofia Jain's Math 156 
 
 ## How to run 156_CNN-MainModel.ipynb
 
-The instructions below involve running commands in your system's terminal. 
+To run the code for our model:
+1. Download and unzip the EmotionsData.zip file
+2. Download 156_CNN-MainModel.ipynb into the location of the unzipped EmotionsData folder.
+3. Ensure the the required packages (listed below) are downloaded and run the notebook.  
+
+An alternative way to run the python note book involves running commands in your system's terminal through these steps: 
 
 1. **Clone the Repository:**
    ```bash
